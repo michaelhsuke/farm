@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Adapter.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/class/Adapter.php">
+      <file leaf-file-name="DB.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class/DB.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.3660855">
-              <caret line="148" column="41" selection-start-line="148" selection-start-column="41" selection-end-line="148" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.9080824">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -45,9 +45,13 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/exception.php" />
         <option value="$PROJECT_DIR$/desgin.patterns.php" />
-        <option value="$PROJECT_DIR$/class/Prototype.php" />
         <option value="$PROJECT_DIR$/simple-graph.php" />
         <option value="$PROJECT_DIR$/class/Adapter.php" />
+        <option value="$PROJECT_DIR$/class/Prototype.php" />
+        <option value="$PROJECT_DIR$/class/Decorator.php" />
+        <option value="$PROJECT_DIR$/class/TemplateMethod.php" />
+        <option value="$PROJECT_DIR$/class/State.php" />
+        <option value="$PROJECT_DIR$/class/DB.php" />
       </list>
     </option>
   </component>
@@ -252,7 +256,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="77" column="42" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
-          <folding />
+          <folding>
+            <marker date="1442632415768" expanded="false" signature="-1:-1" placeholder=" Created by PhpStorm. ..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -340,13 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/Prototype.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8621236">
-          <caret line="197" column="52" selection-start-line="197" selection-start-column="52" selection-end-line="197" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.71156895">
@@ -374,8 +402,546 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/Adapter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.3660855">
-          <caret line="148" column="41" selection-start-line="148" selection-start-column="41" selection-end-line="148" selection-end-column="41" />
+        <state vertical-scroll-proportion="6.836767">
+          <caret line="169" column="40" selection-start-line="169" selection-start-column="40" selection-end-line="169" selection-end-column="40" />
+          <folding>
+            <marker date="1442632415768" expanded="false" signature="-1:-1" placeholder=" Created by PhpStorm. ..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442632415768" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/Prototype.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33280507">
+          <caret line="102" column="22" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
+          <folding>
+            <marker date="1442644598467" expanded="false" signature="-1:-1" placeholder=" Created by PhpStorm. ..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder=" @param mixed $name ..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder=" @param mixed $id ..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder=" @param mixed $employeePic ..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442644598467" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/Decorator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9080824">
+          <caret line="91" column="63" selection-start-line="91" selection-start-column="63" selection-end-line="91" selection-end-column="63" />
+          <folding>
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder=" Created by PhpStorm. ..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder=" Video constructor. ..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder=" Developer Dating Service ..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder=" Male constructor. ..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442647869009" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/TemplateMethod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9080824">
+          <caret line="143" column="46" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
+          <folding>
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder=" Created by PhpStorm. ..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder=" Abstract Template Method class ..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder=" interface Product ..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder=" Class IHook ..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442651602493" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/State.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8161648">
+          <caret line="89" column="1" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+          <folding>
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder=" Created by PhpStorm. ..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder=" OnState constructor. ..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder=" OnState constructor. ..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1442652729710" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34865293">
+          <caret line="1573" column="9" selection-start-line="1573" selection-start-column="9" selection-end-line="1573" selection-end-column="9" />
+          <folding>
+            <marker date="1438144872000" expanded="false" signature="-1:-1" placeholder=" Start of mysqli extension stubs v.0.1 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" mysqli_sql_exception ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" The sql state with the error. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" MySQLi Driver. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var bool ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Represents a connection between PHP and a MySQL database. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var mixed ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var array A list of errors, each as an associative array containing the errno, error, and sqlstate. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @deprecated 5.3 This function has been DEPRECATED as of PHP 5.3.0 and REMOVED as of PHP 5.4.0. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @param $host [optional] ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.1.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.3.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" An undocumented function equivalent to the $server_info property ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.1.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @param $host [optional] ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.3.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.3.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Escapes special characters in a string for use in an SQL statement, taking into account the current charset of the connection ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0.5 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @param $option ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @param $options ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Represents one or more MySQL warnings. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" The __construct purpose ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Move to the next warning ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Represents the result set obtained from a query against the database. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var array ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var mixed ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Constructor (no docs available) ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Close (no docs available) ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.3.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Free a result set (No docs available) ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Represents a prepared statement. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var int ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" mysqli_stmt constructor ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.1.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Check if there are more query results from a multiple query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Reads the next result from a multiple query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" No documentation available ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Gets a result set from a prepared statement ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" (PHP 5)&lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Turns on or off auto-committing database modifications ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Changes the user of the specified database connection ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the default character set for the database connection ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Closes a previously opened database connection ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Commits the current transaction ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Open a new connection to the MySQL server ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the error code from last connect call ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns a string description of the last connect error ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Adjusts the result pointer to an arbitrary row in the result ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Dump debugging information into the log ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Performs debugging operations using the Fred Fish debugging library. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the error code for the most recent function call ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns a list of errors from the last command executed ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns a list of errors from the last statement executed ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns a string description of the last error ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Executes a prepared Query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Executes a prepared Query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the next field in the result set ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns an array of objects representing the fields in a result set ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Fetch meta-data for a single field ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the lengths of the columns of the current row in the result set ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Fetches all result rows as an associative array, a numeric array, or both. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Fetch a result row as an associative, a numeric array, or both. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Fetch a result row as an associative array ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the current row of a result set as an object. ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Get a result row as an enumerated array ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the number of columns for the most recent query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Set result pointer to a specified field offset ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Get current field offset of a result pointer ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Frees the memory associated with a result ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns client Zval cache statistics ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns statistics about the client connection ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns client per-process statistics ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns a character set object ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Get MySQL client info ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the MySQL client version as a string ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns a string representing the type of connection used ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the version of the MySQL protocol used ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the version of the MySQL server ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the version of the MySQL server as an integer ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Get result of SHOW WARNINGS ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Initializes MySQLi and returns a resource for use with mysqli_real_connect() ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Retrieves information about the most recently executed query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the auto generated id used in the last query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Asks the server to kill a MySQL thread ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Unsets user defined handler for load local infile command ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Set callback function for LOAD DATA LOCAL INFILE command ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Check if there are any more query results from a multi query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Performs a query on the database ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Prepare next result from multi_query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Get the number of fields in a result ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Gets the number of rows in a result ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Set options ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Pings a server connection, or tries to reconnect if the connection has gone down ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Poll connections ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Prepare an SQL statement for execution ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Enables or disables internal report functions ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Performs a query on the database ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Opens a connection to a mysql server ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Escapes special characters in a string for use in an SQL statement, taking into account the current charset of the connection ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Execute an SQL query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Get result from async query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Rolls back current transaction ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Selects the default database for database queries ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Sets the default client character set ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the total number of rows changed, deleted, or inserted by the last executed statement ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Get the current value of a statement attribute ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Modify the behavior of a prepared statement ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the number of fields in the given statement ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Initializes a statement and returns an object for use with mysqli_stmt_prepare ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Prepare an SQL statement for execution ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns result set metadata from a prepared statement ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Send data in blocks ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Binds variables to a prepared statement as parameters ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Binds variables to a prepared statement for result storage ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Fetch results from a prepared statement into the bound variables ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Frees stored result memory for the given statement handle ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Gets a result set from a prepared statement ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Get result of SHOW WARNINGS ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Get the ID generated from the previous INSERT operation ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Resets a prepared statement ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the number of parameter for the given statement ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the SQLSTATE error from previous MySQL operation ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Gets the current system status ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Closes a prepared statement ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Seeks to an arbitrary row in statement result set ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the error code for the most recent statement call ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns a string description for last statement error ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Check if there are more query results from a multiple query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Reads the next result from a multiple query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Return the number of rows in statements result set ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns SQLSTATE error from previous statement operation ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Transfers a result set from a prepared statement ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Transfers a result set from the last query ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the thread ID for the current connection ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns whether thread safety is given or not ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Initiate a result set retrieval ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Returns the number of warnings from the last query for the given link ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" Flushes tables or caches, or resets the replication server information ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" @since 5.0 ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+            <marker date="1438144872000" expanded="true" signature="-1:-1" placeholder=" &lt;p&gt; ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9080824">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding />
         </state>
       </provider>

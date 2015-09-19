@@ -1,11 +1,11 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: xuke
  * Date: 2015/9/8
  * Time: 16:31
  */
-
 class SubObject {
     static $instances = 0;
     public $instance;
@@ -55,53 +55,48 @@ abstract class IAcmePrototype {
     protected $dept;
 
     abstract function setDept($orgCode);
+
     abstract function getDept();
 
     /**
      * @return mixed
      */
-    public function getName()
-    {
+    public function getName() {
         return $this->name;
     }
 
     /**
      * @param mixed $name
      */
-    public function setName($name)
-    {
+    public function setName($name) {
         $this->name = $name;
     }
 
     /**
      * @return mixed
      */
-    public function getId()
-    {
+    public function getId() {
         return $this->id;
     }
 
     /**
      * @param mixed $id
      */
-    public function setId($id)
-    {
+    public function setId($id) {
         $this->id = $id;
     }
 
     /**
      * @return mixed
      */
-    public function getEmployeePic()
-    {
+    public function getEmployeePic() {
         return $this->employeePic;
     }
 
     /**
      * @param mixed $employeePic
      */
-    public function setEmployeePic($employeePic)
-    {
+    public function setEmployeePic($employeePic) {
         $this->employeePic = $employeePic;
     }
 
@@ -114,9 +109,8 @@ class Marketing extends IAcmePrototype {
     private $promotion = 'promotion';
     private $strategic = 'strategic planning';
 
-    function setDept($orgCode)
-    {
-        switch($orgCode) {
+    function setDept($orgCode) {
+        switch ($orgCode) {
             case 101:
                 $this->dept = $this->sales;
                 break;
@@ -131,13 +125,11 @@ class Marketing extends IAcmePrototype {
         }
     }
 
-    function getDept()
-    {
+    function getDept() {
         return $this->dept;
     }
 
-    function __clone()
-    {
+    function __clone() {
         // TODO: Implement __clone() method.
     }
 }
@@ -148,9 +140,8 @@ class Management extends IAcmePrototype {
     private $plan = 'planning';
     private $operations = 'operations';
 
-    function setDept($orgCode)
-    {
-        switch($orgCode) {
+    function setDept($orgCode) {
+        switch ($orgCode) {
             case 201:
                 $this->dept = $this->research;
                 break;
@@ -165,13 +156,11 @@ class Management extends IAcmePrototype {
         }
     }
 
-    function getDept()
-    {
+    function getDept() {
         return $this->dept;
     }
 
-    function __clone()
-    {
+    function __clone() {
         // TODO: Implement __clone() method.
     }
 }
@@ -182,9 +171,8 @@ class Engineering extends IAcmePrototype {
     private $design = 'digital artwork';
     private $sysAdmin = 'system administration';
 
-    function setDept($orgCode)
-    {
-        switch($orgCode) {
+    function setDept($orgCode) {
+        switch ($orgCode) {
             case 301:
                 $this->dept = $this->development;
                 break;
@@ -199,13 +187,11 @@ class Engineering extends IAcmePrototype {
         }
     }
 
-    function getDept()
-    {
+    function getDept() {
         return $this->dept;
     }
 
-    function __clone()
-    {
+    function __clone() {
         // TODO: Implement __clone() method.
     }
 }
